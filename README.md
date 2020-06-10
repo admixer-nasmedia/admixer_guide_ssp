@@ -37,13 +37,13 @@ Segment | X | 3.2.15 |  | -
 Regs | O | 3.2.16 |  | O
 PMP | X | 3.2.17 |  | -
 Deal | X | 3.2.18 |  | -
-Native Markup Request Object | O | - | 4.1 | -
-Asset Request Object | O | - | 4.2 | -
-Title Request Object | O | - | 4.3 | -
-Image Request Object | O | - | 4.4 | -
-Video Request Object | O | - | 4.5 | -
-Data Request Object | O | - | 4.6 | -
-Event Trackers Request Object | O | - | 4.7 | -
+Native Markup | O | - | 4.1 | -
+Asset | O | - | 4.2 | -
+Title | O | - | 4.3 | -
+Image | O | - | 4.4 | -
+Video | O | - | 4.5 | -
+Data | O | - | 4.6 | -
+EventTrackers | O | - | 4.7 | -
 <br>
 
 ## Object Specifications
@@ -200,7 +200,7 @@ ext | -
 <br>
 
 
-- Object : Native
+- Object : Native Markup
 
 Field name | Required
 :--- | :---
@@ -217,7 +217,7 @@ eventtrackers | -
 privacy | -
 <br>
 
-- Object : Assets
+- Object : Asset
 
 Field name | Required
 :--- | :---
