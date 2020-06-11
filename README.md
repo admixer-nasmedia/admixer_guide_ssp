@@ -8,7 +8,7 @@ This document is based on Open RTB version.2.3(Native Ads 1.2).
 Therefore, this document does not cover details regarding BidRequest/Response.  
 For more details on these, please check OpenRTB 2.3(Native Ads 1.2) specification via below link.
 
-http://www.iab.net/media/file/OpenRTB-API-Specification-Version-2-3.pdf
+https://www.iab.com/wp-content/uploads/2015/06/OpenRTB-API-Specification-Version-2-3.pdf<br>
 https://www.iab.com/wp-content/uploads/2018/03/OpenRTB-Native-Ads-Specification-Final-1.2.pdf
 
 If you have any question about this document, please reach out to admixer@nasmedia.co.kr.  
