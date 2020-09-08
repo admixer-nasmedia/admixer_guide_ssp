@@ -167,7 +167,7 @@ geo | -
 dnt | -
 ip | O (mandatory, public IP)
 ipv6 | -
-devicetype | -
+devicetype | O
 make | -
 model | O
 os | O
