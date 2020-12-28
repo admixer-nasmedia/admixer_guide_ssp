@@ -281,21 +281,21 @@ methods | O
 
 Field name | Type | Mandatory / Option | Details
 :--- | :---: | :---: | :---
-clicktrack | int | Option | Macro of click measurement.<br>Where 0 = Not use. In this case, macro of click measurement is not included on Bid.adm of BidResponse (Default value), - 1 = Use. In this case, macro of click measurement is included on Bid.adm of BidResponse.
+clicktrack | int | Option | Macro of click measurement.<br>Where 0 = Not use. In this case, macro of click measurement is not included on Bid.adm of BidResponse (Default value), 1 = Use. In this case, macro of click measurement is included on Bid.adm of BidResponse.
 <br>
 
 - Object : ext of Video
 
 Field name | Type | Mandatory / Option | Details
 :--- | :---: | :---: | :---
-allctvs | int | Option | Whether to request creatives with all resolution.<br>Where 0 = Not use. (Default value), - 1 = Use. In this case, all creatives with supported resolutions should be included in the response.
+allctvs | int | Option | Whether to request creatives with all resolution.<br>Where 0 = Not use. (Default value), 1 = Use. In this case, all creatives with supported resolutions should be included in the response.
 <br>
 
 - Object : ext of Site
 
 Field name | Type | Mandatory / Option | Details
 :--- | :---: | :---: | :---
-pcweb | int | Option | Whether it is a PC website or not.<br>Where 0 = Mobile website (Default value), - 1 = PC website.
+pcweb | int | Option | Whether it is a PC website or not.<br>Where 0 = Mobile website (Default value), 1 = PC website.
 <br>
 
 - Object : ext of User
